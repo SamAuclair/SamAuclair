@@ -1,6 +1,6 @@
 # Hi, I'm Sam 👋
 
-I'm a Data Scientist with a background in actuarial science. I like solving problems with mathematics and code. I learned to code by building a poker bot that played online against real players. 🤖
+I'm a Data Analyst with a background in actuarial science. I like solving problems with mathematics and code. I learned to code by building a poker bot that played online against real players. 🤖
 
 Explore my projects below to see examples of my work in action.
 
