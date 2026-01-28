@@ -14,7 +14,7 @@ I'm currently focusing my efforts on artificial intelligence and agentic tools t
 
 Explore my projects below to see examples of my work in action.
 
-## 🔭 Featured Project
+## 🔭 Featured Projects
 - **[Zwift Analytics](https://zwift-dashboard.streamlit.app/)** - A dashboard providing insights into my cycling sessions.
 - **Fitbit Analytics** - Coming soon...
 <!--- **[Checkout Design A/B Testing](link)** - Coming soon...-->
