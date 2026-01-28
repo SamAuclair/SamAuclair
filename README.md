@@ -62,20 +62,12 @@ Explore my projects below to see examples of my work in action.
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Languages**  
-![French](https://img.shields.io/badge/Français_🇫🇷-0055A4?style=for-the-badge&logoColor=white)
-![English](https://img.shields.io/badge/English_🇬🇧-012169?style=for-the-badge&logoColor=white)
-![English](https://img.shields.io/badge/EN_🇬🇧-012169?style=for-the-badge&logoColor=white)
-![English](https://img.shields.io/badge/EN-012169?style=for-the-badge&logoColor=white)
-![French](https://img.shields.io/badge/FR-555555?style=for-the-badge&logoColor=white)
-![English](https://img.shields.io/badge/EN-555555?style=for-the-badge&logoColor=white)
-![French](https://img.shields.io/badge/Français-2E86AB?style=for-the-badge&logoColor=white)
-![English](https://img.shields.io/badge/English-A23B72?style=for-the-badge&logoColor=white)
-![French](https://img.shields.io/badge/Français_(Native)-0055A4?style=for-the-badge&logoColor=white)
-![English](https://img.shields.io/badge/English_(Fluent)-012169?style=for-the-badge&logoColor=white)
-![French](https://img.shields.io/badge/🇫🇷_Français-FFFFFF?style=for-the-badge&color=0055A4)
-![English](https://img.shields.io/badge/🇬🇧_English-FFFFFF?style=for-the-badge&color=012169)
 ![French](https://img.shields.io/badge/Français-4A90E2?style=for-the-badge&logoColor=white)
 ![English](https://img.shields.io/badge/English-4A90E2?style=for-the-badge&logoColor=white)
+![French](https://badgen.net/badge/Français/Native/blue)
+![English](https://badgen.net/badge/English/Fluent/blue)
+![French](https://forthebadge.com/images/badges/made-with-french.svg)
+![My Skills](https://skillicons.dev/icons?i=python,postgresql,gcp)
 
 **Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
