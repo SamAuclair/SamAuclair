@@ -69,3 +69,12 @@ Explore my projects below to see examples of my work in action.
 ## 🤙 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-auclair/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:auclair.sam@gmail.com)
+
+---
+
+![Time Series](https://img.shields.io/badge/Time_Series-0066CC?style=plastic&logo=chartdotjs&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time_Series-0066CC?style=plastic&logo=google-analytics&logoColor=white)
+![Game Theory](https://img.shields.io/badge/Game_Theory-8B0000?style=plastic&logo=thingiverse&logoColor=white)
+![Game Theory](https://img.shields.io/badge/Game_Theory-8B0000?style=plastic&logo=unity&logoColor=white)
+![Stochastic Processes](https://img.shields.io/badge/Stochastic_Processes-6A0DAD?style=plastic&logo=googlecalendar&logoColor=white)
+![Stochastic Processes](https://img.shields.io/badge/Stochastic_Processes-6A0DAD?style=plastic&logo=clockify&logoColor=white)
