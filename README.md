@@ -25,8 +25,7 @@ Explore my projects below to see examples of my work in action.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=plastic&logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=plastic&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/⌨️_VBA-217346?style=plastic&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 
 **Mathematics**   
@@ -46,18 +45,16 @@ Explore my projects below to see examples of my work in action.
 
 **Data Engineering**  
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white)
-![DBT](https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/⚙️_dbt-FF694B?style=plastic&logo=dbt&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=plastic&logo=googlebigquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=plastic&logo=sqlalchemy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 
 **Data Visualization**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/📊_Tableau-E97627?style=plastic&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=plastic&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/📈_Seaborn-3776AB?style=plastic&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 
@@ -68,7 +65,9 @@ Explore my projects below to see examples of my work in action.
 **Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/📈_Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/📋_Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/🧮_Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=plastic&logo=hubspot&logoColor=white)
 
 ## 🤙 Connect
@@ -76,6 +75,8 @@ Explore my projects below to see examples of my work in action.
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:auclair.sam@gmail.com)
 
 ---
+
+
 
 
 
