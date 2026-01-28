@@ -75,9 +75,19 @@ Explore my projects below to see examples of my work in action.
 
 ---
 
-![Time Series](https://img.shields.io/badge/Time_Series-0066CC?style=plastic&logo=chartdotjs&logoColor=white)
+<img src="https://img.shields.io/badge/Time_Series-0066CC?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQgNjRjMC0xNy43LTE0LjMtMzItMzItMzJTMCAzNC4zIDAgNTJWNDAwYzAgOC44IDcuMiAxNiAxNiAxNkg0ODBjMTcuNyAwIDMyLTE0LjMgMzItMzJzLTE0LjMtMzItMzItMzJINjRWNjR6bTM1Mi44IDI3LjJjMTIuNS0xMi41IDEyLjUtMzIuOCAwLTQ1LjNzLTMyLjgtMTIuNS00NS4zIDBMMjI0IDI5My4xbC03MS4yLTcxLjJjLTEyLjUtMTIuNS0zMi44LTEyLjUtNDUuMyAwcy0xMi41IDMyLjggMCA0NS4zbDk2IDk2YzEyLjUgMTIuNSAzMi44IDEyLjUgNDUuMyAwbDE2MC0xNjB6Ii8+PC9zdmc+&logoColor=white">
 
+![Time Series](https://img.shields.io/badge/Time_Series-0066CC?style=plastic&logo=lucide:line-chart&logoColor=white)
+![Game Theory](https://img.shields.io/badge/Game_Theory-8B0000?style=plastic&logo=mdi:dice-multiple&logoColor=white)
+![Stochastic Processes](https://img.shields.io/badge/Stochastic_Processes-6A0DAD?style=plastic&logo=material-symbols:calendar-month&logoColor=white)
 
-![Game Theory](https://img.shields.io/badge/Game_Theory-8B0000?style=plastic&logo=unity&logoColor=white)
+<span style="display: inline-flex; align-items: center; padding: 4px 8px; background: linear-gradient(#0066CC, #0052A3); border-radius: 4px; color: white; font-size: 11px; font-family: Verdana, sans-serif;">
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="white" style="margin-right: 5px;">
+    <path d="M3 13h2l2-7 4 12 2-5h2l2 3h4"/>
+  </svg>
+  Time Series
+</span>
 
-![Stochastic Processes](https://img.shields.io/badge/Stochastic_Processes-6A0DAD?style=plastic&logo=clockify&logoColor=white)
+![Time Series](https://img.shields.io/badge/📈_Time_Series-0066CC?style=plastic&logoColor=white)
+![Game Theory](https://img.shields.io/badge/🎲_Game_Theory-8B0000?style=plastic&logoColor=white)
+![Stochastic Processes](https://img.shields.io/badge/📅_Stochastic_Processes-6A0DAD?style=plastic&logoColor=white)
