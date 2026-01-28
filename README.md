@@ -66,7 +66,6 @@ Explore my projects below to see examples of my work in action.
 ![English](https://img.shields.io/badge/English-4A90E2?style=for-the-badge&logoColor=white)
 ![French](https://badgen.net/badge/Français/Native/blue)
 ![English](https://badgen.net/badge/English/Fluent/blue)
-![French](https://forthebadge.com/images/badges/made-with-french.svg)
 ![My Skills](https://skillicons.dev/icons?i=python,postgresql,gcp)
 
 **Others**  
@@ -78,3 +77,28 @@ Explore my projects below to see examples of my work in action.
 ## 🤙 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-auclair/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:auclair.sam@gmail.com)
+
+---
+
+## 🛠️ Relevant Skills, Technologies & Tools
+
+**Programming**  
+![Programming](https://skillicons.dev/icons?i=python,postgres,r,java)
+
+**Data Science & ML**  
+![Data Science](https://skillicons.dev/icons?i=sklearn)
+
+**Data Engineering**  
+![Data Engineering](https://skillicons.dev/icons?i=postgres,gcp)
+
+**Data Visualization**  
+![Visualization](https://skillicons.dev/icons?i=jupyter)
+
+**Others**  
+![Tools](https://skillicons.dev/icons?i=git,excel)
+
+## 🤙 Connect
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuel-auclair/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:auclair.sam@gmail.com)
+
+
