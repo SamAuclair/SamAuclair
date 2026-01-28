@@ -33,7 +33,6 @@ Explore my projects below to see examples of my work in action.
 ![Probability](https://img.shields.io/badge/Probability-FF6F00?style=plastic&logo=wolfram&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing-4285F4?style=plastic&logo=googleoptimize&logoColor=white)
 ![Financial Mathematics](https://img.shields.io/badge/Financial_Mathematics-00875A?style=plastic&logo=cashapp&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time_Series-0066CC?style=plastic&logo=plotly&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time_Series-0066CC?style=plastic&logo=google-analytics&logoColor=white)
 ![Game Theory](https://img.shields.io/badge/Game_Theory-8B0000?style=plastic&logo=checkmk&logoColor=white)
 ![Game Theory](https://img.shields.io/badge/Game_Theory-8B0000?style=plastic&logo=thingiverse&logoColor=white)
@@ -90,4 +89,6 @@ Explore my projects below to see examples of my work in action.
 
 ![Time Series](https://img.shields.io/badge/📈_Time_Series-0066CC?style=plastic&logoColor=white)
 ![Game Theory](https://img.shields.io/badge/🎲_Game_Theory-8B0000?style=plastic&logoColor=white)
-![Stochastic Processes](https://img.shields.io/badge/📅_Stochastic_Processes-6A0DAD?style=plastic&logoColor=white)
+![Stochastic Processes](https://img.shields.io/badge/🕐_Stochastic_Processes-6A0DAD?style=plastic&logoColor=white)
+![Stochastic Processes](https://img.shields.io/badge/⏱️_Stochastic_Processes-6A0DAD?style=plastic&logoColor=white)
+
