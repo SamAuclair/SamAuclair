@@ -16,7 +16,7 @@ Explore my projects below to see examples of my work in action.
 
 ## 🔭 Featured Project
 - **[Zwift Analytics](https://zwift-dashboard.streamlit.app/)** - A dashboard providing insights into my cycling sessions.
-- **[Fitbit Analytics](link)** - Coming soon...
+- **Fitbit Analytics** - Coming soon...
 <!--- **[Checkout Design A/B Testing](link)** - Coming soon...-->
 
 ## 🛠️ Relevant Skills, Technologies & Tools
