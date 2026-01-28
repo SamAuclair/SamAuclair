@@ -3,10 +3,15 @@
 Data and analytics specialist with a background in actuarial science. 
 
 Passionate about solving complex problems with mathematics and code. 💻
+
 I enjoy breaking down data to uncover patterns and develop winning strategies. 📈
+
 I also excel at transforming inefficient processes into automated solutions. 🤖
+
 I learned to code by building a poker bot that played online against real players. ♠️
+
 I'm currently focusing my efforts on artificial intelligence and agentic tools that multiply my productivity. 💪
+
 
 Explore my projects below to see examples of my work in action.
 
