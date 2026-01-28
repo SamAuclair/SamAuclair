@@ -24,6 +24,7 @@ Explore my projects below to see examples of my work in action.
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+
 **Mathematics**   
 ![Statistics](https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=scipy&logoColor=white)
 ![Probability](https://img.shields.io/badge/Probability-FF6F00?style=for-the-badge&logo=wolfram&logoColor=white)
@@ -33,10 +34,12 @@ Explore my projects below to see examples of my work in action.
 ![Game Theory](https://img.shields.io/badge/Game_Theory-8B0000?style=for-the-badge&logo=checkmk&logoColor=white)
 ![Stochastic Processes](https://img.shields.io/badge/Stochastic_Processes-6A0DAD?style=for-the-badge&logo=probot&logoColor=white)
 
+
 **Data Science & ML**  
 ![Claude Code](https://img.shields.io/badge/Claude_Code-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 **Data Engineering**  
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
@@ -46,6 +49,7 @@ Explore my projects below to see examples of my work in action.
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+
 **Visualization**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -53,16 +57,18 @@ Explore my projects below to see examples of my work in action.
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+
 **Languages**
-![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=google-translate&logoColor=white)
-![English](https://img.shields.io/badge/English-012169?style=for-the-badge&logo=google-translate&logoColor=white)
 ![French](https://img.shields.io/badge/Français_🇫🇷-0055A4?style=for-the-badge&logoColor=white)
 ![English](https://img.shields.io/badge/English_🇬🇧-012169?style=for-the-badge&logoColor=white)
+![English](https://img.shields.io/badge/EN_🇬🇧-012169?style=for-the-badge&logoColor=white)
+
 
 **Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+
 
 ## 🤙 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-auclair/)
