@@ -25,7 +25,6 @@ Explore my projects below to see examples of my work in action.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
-![VBA](https://img.shields.io/badge/⌨️_VBA-217346?style=plastic&logoColor=white)
 ![VBA](https://img.shields.io/badge/💻_VBA-217346?style=plastic&logo=microsoftexcel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 
@@ -60,14 +59,11 @@ Explore my projects below to see examples of my work in action.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 
 **Languages**  
-![French](https://img.shields.io/badge/French_(Native)-4A90E2?style=plastic&logoColor=white)
-![English](https://img.shields.io/badge/English_(Fluent)-4A90E2?style=plastic&logoColor=white)
 ![French](https://img.shields.io/badge/🇫🇷_French_(Native)-4A90E2?style=plastic&logoColor=white)
 ![English](https://img.shields.io/badge/🇺🇸_English_(Fluent)-4A90E2?style=plastic&logoColor=white)
 
 **Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
 ![Excel](https://img.shields.io/badge/📋_Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=plastic&logo=hubspot&logoColor=white)
 
