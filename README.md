@@ -1,12 +1,12 @@
 # Hi, I'm Sam 👋
 
-Data and analytics specialist with a background in actuarial science. Passionate about solving complex problems with mathematics and code. 💻
+Data and analytics specialist with a background in actuarial science. 
 
-I enjoy breaking down data to uncover patterns and develop winning strategies. I also excel at transforming inefficient processes into automated solutions. 📈
-
+Passionate about solving complex problems with mathematics and code. 💻
+I enjoy breaking down data to uncover patterns and develop winning strategies. 📈
+I also excel at transforming inefficient processes into automated solutions. 🤖
 I learned to code by building a poker bot that played online against real players. ♠️
-
-I'm currently focusing my efforts on artificial intelligence and agentic tools that multiply my productivity. 🤖
+I'm currently focusing my efforts on artificial intelligence and agentic tools that multiply my productivity. 💪
 
 Explore my projects below to see examples of my work in action.
 
@@ -62,7 +62,7 @@ Explore my projects below to see examples of my work in action.
 ![French](https://img.shields.io/badge/Français_🇫🇷-0055A4?style=for-the-badge&logoColor=white)
 ![English](https://img.shields.io/badge/English_🇬🇧-012169?style=for-the-badge&logoColor=white)
 ![English](https://img.shields.io/badge/EN_🇬🇧-012169?style=for-the-badge&logoColor=white)
-
+![English](https://img.shields.io/badge/EN-012169?style=for-the-badge&logoColor=white)
 
 **Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
