@@ -12,11 +12,10 @@ I learned to code by building a poker bot that played online against real player
 
 I'm currently focusing my efforts on artificial intelligence and agentic tools that multiply my productivity. 💪
 
-Explore my projects below to see examples of my work in action.
+Explore my project below to see an example of my work in action.
 
-## 🔭 Featured Projects
+## 🔭 Featured Project
 - **[Zwift Analytics](https://zwift-dashboard.streamlit.app/)** - A dashboard providing insights into my cycling sessions.
-- **Fitbit Analytics** - Coming soon...
 <!--- **[Checkout Design A/B Testing](link)** - Coming soon...-->
 
 ## 🛠️ Relevant Skills, Technologies & Tools
